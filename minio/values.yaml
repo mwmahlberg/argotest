@@ -1,0 +1,4 @@
+minio:
+  accessKey: 'minio'
+  persistence:
+    size: 2Gi
