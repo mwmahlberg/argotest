@@ -1,4 +1,4 @@
 minio:
-  accessKey: 'jenselsdoerfer'
+  accessKey: 'mwmahlberg'
   persistence:
     size: 2Gi
