@@ -1,4 +1,4 @@
 minio:
-  accessKey: 'foobar'
+  accessKey: 'abergmann'
   persistence:
     size: 2Gi
